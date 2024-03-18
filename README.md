@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jheel17
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL, R, Python, Tableau, Power BI
+- 💞️ I’m looking to collaborate on data analysis projects or anything related to my interests!
+- 📫 How to reach me jheeljagani08@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: You might catch me busting out some seriously silly dance moves! Whether it's the "spaghetti arms" or the "robot gone rogue," I'm always up for a laugh and a shimmy.    
