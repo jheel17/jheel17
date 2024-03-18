@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jheel17
+- 👋 Hi, I’m Jheel, J.J
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, R, Python, Tableau, Power BI
 - 💞️ I’m looking to collaborate on data analysis projects or anything related to my interests!
