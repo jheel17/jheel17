@@ -1,6 +1,27 @@
-- 👋 Hi, I’m Jheel, J.J
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, R, Python, Tableau, Power BI
-- 💞️ I’m looking to collaborate on data analysis projects or anything related to my interests!
-- 📫 How to reach me jheeljagani08@gmail.com
-- 😄 Pronouns: She/Her
+![logo](https://files.oaiusercontent.com/file-pGUIt1IlC7ryex9lBQqmectZ?se=2024-04-17T04%3A36%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De27fc2d0-8621-4b4f-8d62-f95bed66b77f.webp&sig=GLVaspQWiWlEHt/MsqUsawsLx%2BZ0woCIlzxB%2Bh2ea3A%3D)
+
+<h1 align="center">Hi 👋, I'm Jheel</h1>
+<h3 align="center">A Data Enthusiast</h3>
+
+
+- 🔭 I’m currently working on **Building a robust portfolio of data analysis projects using SQL, Python, and Tableau. My focus is on developing practical solutions that leverage data to solve real-world problems, with an emphasis on predictive analytics and data visualization.**
+
+- 🌱 I’m currently learning **SQL and Python for data manipulation and querying, as well as R for statistical analysis. I'm also diving into Tableau and Power BI to enhance my data visualization skills, and I'm exploring ETL techniques to streamline data processing workflows.**
+
+- 👯 I’m looking to collaborate on **Any projects involving data visualization or predictive modeling. If you're looking for someone to help clean, analyze, or visualize data in innovative ways using Python, R, Tableau, or Power BI, I'd love to join forces.**
+
+- 🤝 I’m looking for help with **Gaining more hands-on experience with ETL processes and machine learning algorithms. If you're experienced in these areas and open to mentoring or offering guidance, I'd greatly appreciate the opportunity to learn from you.**
+
+- 💬 Ask me about **How to create interactive and insightful data visualizations using Tableau or Power BI.**
+
+- 📫 How to reach me **jheeljagani08@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jheel jagani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jheel jagani" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jheel17&show_icons=true&locale=en&layout=compact" alt="jheel17" /></p>
